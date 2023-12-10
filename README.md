@@ -24,5 +24,5 @@ var prediction = classifier.Predict(textToClassify);
 
 ## TODO
 
-- Do unit tests with possible use cases
-- Try other Supervised Learning (Decision Trees,Logistic Regression)
+- [ ]  Do unit tests with possible use cases
+- [ ] Try other Supervised Learning (Decision Trees,Logistic Regression)
