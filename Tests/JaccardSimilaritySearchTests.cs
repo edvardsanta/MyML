@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-using Xunit;
-using FluentAssertions;
+﻿using FluentAssertions;
 using MyML;
 
 public class JaccardSimilaritySearchTests
